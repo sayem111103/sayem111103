@@ -9,12 +9,7 @@ Skills: NODE / EXPRESS / MONGODB / REACT / JS / CSS / HTML
 
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sayem111103)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayem111103)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sayem111103&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayem111103)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sayem111103&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/sayem111103)  
 
