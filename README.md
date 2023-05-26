@@ -11,9 +11,7 @@ Skills: NODE / EXPRESS / MONGODB / REACT / JS / CSS / HTML
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayem111103)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sayem111103&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/sayem111103) ![GitHub streak stats](https://streak-stats.demolab.com/?user=sayem111103)  
-
-![Profile views](https://gpvc.arturio.dev/sayem111103)  
+![GitHub metrics](https://metrics.lecoq.io/sayem111103) ![Profile views](https://gpvc.arturio.dev/sayem111103)  
 
 
 ## Getting Started with Create React App
