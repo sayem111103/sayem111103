@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is MD. SAYEM UL ISLAM
 #### I am a Jr. MERN Stack Developer
 
-Skills: HTML / CSS / JS / REACT / EXPRESS / MONGODB / NODE 
+Skills: HTML / CSS / JS / TS / REACT / EXPRESS / MONGODB / NODE 
 
 
 
